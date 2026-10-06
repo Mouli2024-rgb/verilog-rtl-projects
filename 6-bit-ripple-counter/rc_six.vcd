@@ -1,0 +1,47 @@
+$date
+	Fri Jun 26 01:26:07 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module rc_six_tb $end
+$var wire 6 ! C [5:0] $end
+$var reg 1 " CLEAR $end
+$var reg 1 # CLOCK $end
+$scope module uut $end
+$var wire 1 # CLK $end
+$var wire 1 " CLR $end
+$var wire 6 $ COUNt [5:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx $
+x#
+x"
+bx !
+$end
+#5
+b0 !
+b0 $
+1"
+0#
+#10
+1#
+#15
+0"
+0#
+#20
+1#
+#30
+b1 !
+b1 $
+0#
+#130
